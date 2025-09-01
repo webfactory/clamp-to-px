@@ -1,5 +1,5 @@
 /**
- * Calculates clamp value for responsive sizing.
+ * Calculates a pixel value for a given CSS clamp() expression and viewport width.
  *
  * @param {number} minRem - Minimum value in rem.
  * @param {string} preferredFormula - Formula string, e.g. '1.5 + 0.5'.
